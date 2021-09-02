@@ -1,0 +1,2 @@
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));grid-gap:5px;gap:5px;margin:0;padding:0;list-style:none}.cards__item{padding:0 10px;border-radius:10px;background-color:#ff0;transition:-webkit-transform .3s;transition:transform .3s;transition:transform .3s,-webkit-transform .3s;cursor:pointer}.cards__item:hover{-webkit-transform:scale(1.1);transform:scale(1.1);border:1px solid #000}.cards__item_done{background-color:#7cfc00}
+/*# sourceMappingURL=main.9826098e.chunk.css.map */
